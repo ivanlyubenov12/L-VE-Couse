@@ -5,7 +5,7 @@ Welcome to the Love2D Course! It is dedicated to helping you learn Lua and Love2
 Lua is a lightweight, high-level programming language designed for efficiency and simplicity. It’s widely used in game development due to its speed and flexibility. Lua has an easy-to-read syntax, which makes it perfect for anyone stepping into coding or looking to bring their game ideas to life.
 
 ## About Love2D
-Love2D (or just "LÖVE") is an open-source game engine that uses Lua to create 2D games quickly. It’s minimal, straightforward, and focused solely on 2D, making it ideal for creating pixel-perfect games that work across different platforms.
+[Love2D](https://love2d.org) (or just "LÖVE") is an open-source game engine that uses Lua to create 2D games quickly. It’s minimal, straightforward, and focused solely on 2D, making it ideal for creating pixel-perfect games that work across different platforms.
 
 ## What Will You Achieve?
 In this course, we’ll work step-by-step to build a retro-inspired RPG where you'll create a world filled with adventures, characters, items, and epic battles! Along the way, you’ll:
@@ -31,3 +31,4 @@ Whether you're new to programming or just curious about game development, this c
 So grab your laptop, let’s fire up Love2D, and start coding an RPG that blends nostalgia with your unique creativity!
 
 Happy Coding!
+For more information on Love2D, visit [Love2D](https://love2d.org).
